@@ -25,11 +25,8 @@ body{
         flex: 100%;
     } 
     
-@media screen and (min-width:782px) {
-    body {
-        flex-direction: row;
-        flex: 100%;
-    }
+
+    
 
 main{
     display: flex ;

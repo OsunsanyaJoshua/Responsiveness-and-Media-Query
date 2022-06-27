@@ -23,7 +23,12 @@ main{
     /* background-color: indianred; */
     flex-wrap: wrap;
     
-    
+    @media screen and (max-width:768px) {
+    main {
+        flex-flow: column wrap;
+        flex: 100%;
+        
+    }
    
     
 

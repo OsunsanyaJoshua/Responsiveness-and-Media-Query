@@ -18,12 +18,6 @@ body{
 }
 
 
-   
-@media screen and (max-width:782px) {
-    body {
-        flex-direction: row;
-        flex: 100%;
-    } 
     
 
     

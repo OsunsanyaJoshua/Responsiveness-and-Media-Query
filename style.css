@@ -24,7 +24,7 @@ main{
     display: flex ;
     justify-content: center;
     align-items: center;
-    width:70%;
+    width:90%;
     height: 100vh;
     /* background-color: indianred; */
     flex-wrap: wrap;

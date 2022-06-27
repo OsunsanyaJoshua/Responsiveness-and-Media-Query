@@ -17,13 +17,8 @@ body{
     background-color: hsl(0, 100%, 74%);
 }
 
-@media screen and (max-width:390px) {
-    main {
-        flex-direction: row;
-        flex: 100%;
-    }
 
-    }
+    
 
 main{
     display: flex ;

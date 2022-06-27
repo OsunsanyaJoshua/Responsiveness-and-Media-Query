@@ -27,7 +27,7 @@ body{
     
 @media screen and (min-width:782px) {
     body {
-        flex-direction: column;
+        flex-direction: row;
         flex: 100%;
     }
 
